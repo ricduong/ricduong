@@ -37,5 +37,5 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 ### Advanced Security Reporting Partners
  Datadog | Elastic Search | [Kenna Security](https://github.com/KennaSecurity/toolkit) | [Nucleus](https://help.nucleussec.com/docs/githubapp) | Sentinel | Sumologic | [Splunk](https://github.com/splunk/github_app_for_splunk/)
 
-### Enterprise Server Stroage Partners
+### Enterprise Server Storage Partners
 [Cloudian](https://cloudian.com/products/hyperstore/) | [Hitachi Vantara](https://www.hitachivantara.com/en-us/products/storage/object-storage.html) | [MinIO](https://docs.min.io/minio/baremetal/) | [NetApp](https://www.netapp.com/data-storage/storagegrid/) | [Pure Storage](https://www.purestorage.com/products/file-and-object/flashblade.html)
