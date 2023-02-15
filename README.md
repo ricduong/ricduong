@@ -1,9 +1,7 @@
-## About Me
-
 Hello 👋, I am [@ricduong](https://www.linkedin.com/in/rickduong/),  the Executive Director for the [Technology Partnership and Engineering]([url](https://partner.github.com/technology-partners)) team at [GitHub](http://github.com). Our team works with partners to integrate their technology into GitHub to help enable all developers on the planet. 
 I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enjoy 🚴‍♂️ cycling and admire the 🎇 night sky as much as I can. 
 
-## Partner Integration News
+## 📰 Partner Integration News
 
 - [ARM + GitHub Actions](https://github.blog/2022-11-02-github-partners-with-arm-to-revolutionize-internet-of-things-software-development-with-github-actions/) = Revolutionizing Internet of Things software development
 - [SIEM Partners + GitHub Advanced Security](https://github.blog/2022-10-13-introducing-github-advanced-security-siem-integrations-for-security-professionals/) = Integrating GHAS alerts with security partners
@@ -12,7 +10,7 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 - [JetBrains + GitHub Codespaces](https://github.blog/changelog/2022-11-09-github-codespaces-with-jetbrains-ides-public-beta/) = Supporting JetBrains IDE via the JetBrains Gateway
 - [Perforce + GitHub Actions](https://www.perforce.com/blog/vcs/perforce-github-helix-core-actions) = Supporting game development via Perforce Helix Core
 
-### Secret Scanning Partners
+### 🔒 Secret Scanning Partners
 
 [WakaTime](https://github.blog/changelog/2023-02-10-wakatime-is-now-a-github-secret-scanning-partner)
 | [Persona](https://github.blog/changelog/2023-02-03-persona-is-now-a-github-secret-scanning-partner)
@@ -34,8 +32,8 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 | [Supabase](https://github.blog/changelog/2022-03-28-supabase-is-now-a-github-secret-scanning-partner)
 | [Octopus Deploy](https://github.blog/changelog/2022-03-18-octopus-deploy-is-now-a-github-secret-scanning-partner)
 
-### Advanced Security Reporting Partners
+### 🔔 Advanced Security Reporting Partners
  [Datadog](https://docs.datadoghq.com/integrations/github/) | [Elastic Search](https://docs.elastic.co/integrations/github) | [Kenna Security](https://github.com/KennaSecurity/toolkit) | [Nucleus](https://help.nucleussec.com/docs/githubapp) | [Sentinel](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoftcorporation1622712991604.sentinel4github?tab=overview) | [Sumo Logic](https://www.sumologic.com/application/github/) | [Splunk](https://github.com/splunk/github_app_for_splunk/)
 
-### Enterprise Server Storage Partners
+### 💾 Enterprise Server Storage Partners
 [Cloudian](https://cloudian.com/products/hyperstore/) | [Hitachi Vantara](https://www.hitachivantara.com/en-us/products/storage/object-storage.html) | [MinIO](https://docs.min.io/minio/baremetal/) | [NetApp](https://www.netapp.com/data-storage/storagegrid/) | [Pure Storage](https://www.purestorage.com/products/file-and-object/flashblade.html)
