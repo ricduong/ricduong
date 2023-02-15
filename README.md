@@ -5,7 +5,8 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 
 ## Partner Integration
 
+- [ARM + GitHub Actions](https://github.blog/2022-11-02-github-partners-with-arm-to-revolutionize-internet-of-things-software-development-with-github-actions/) = Revolutionizing Internet of Things software development
+- [SIEM Partners + GitHub Advanced Security](https://github.blog/2022-10-13-introducing-github-advanced-security-siem-integrations-for-security-professionals/) = Integrating GHAS alerts with security partners
+- [Storage Partners + GitHub Enterprise Server](https://github.com/github-technology-partners/ghes-storage-partners) = Expanded stroage options for GitHub actions and packages
  - [LinkedIn Learning + GitHub Codespaces](https://www.linkedin.com/learning/learning-github-codespaces) = Enabling new online  learning
-- [JetBriains _ GitHub Codespaces](https://github.blog/changelog/2022-11-09-github-codespaces-with-jetbrains-ides-public-beta/) = Supporting JetBrains IDE via the JetBrains Gateway.
-- [ARM + GitHub Actions](https://github.blog/2022-11-02-github-partners-with-arm-to-revolutionize-internet-of-things-software-development-with-github-actions/) = Revolutionizing Internet of Things software development.
-- [SIEM Partners + GitHub Advanced Security](https://github.blog/2022-10-13-introducing-github-advanced-security-siem-integrations-for-security-professionals/) = Integrating GHAS alerts into SIEM partners.
+- [JetBrains + GitHub Codespaces](https://github.blog/changelog/2022-11-09-github-codespaces-with-jetbrains-ides-public-beta/) = Supporting JetBrains IDE via the JetBrains Gateway
