@@ -33,3 +33,9 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 | [JD Cloud](https://github.blog/changelog/2022-04-14-jd-cloud-is-now-a-github-secret-scanning-partner)
 | [Supabase](https://github.blog/changelog/2022-03-28-supabase-is-now-a-github-secret-scanning-partner)
 | [Octopus Deploy](https://github.blog/changelog/2022-03-18-octopus-deploy-is-now-a-github-secret-scanning-partner)
+
+### Advanced Security Reporting Partners
+ Datadog | Elastic Search| Kenna Security | Nucleus | Sentinel | Sumologic | Splunk
+
+### Enterprise Server Stroage Partners
+[Cloudian](https://cloudian.com/products/hyperstore/) | [Hitachi Vantara](https://www.hitachivantara.com/en-us/products/storage/object-storage.html) | [MinIO](https://docs.min.io/minio/baremetal/) | [NetApp](https://www.netapp.com/data-storage/storagegrid/) | [Pure Storage](https://www.purestorage.com/products/file-and-object/flashblade.html)
