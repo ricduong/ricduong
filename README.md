@@ -35,7 +35,7 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 | [Octopus Deploy](https://github.blog/changelog/2022-03-18-octopus-deploy-is-now-a-github-secret-scanning-partner)
 
 ### Advanced Security Reporting Partners
- Datadog | Elastic Search | [Kenna Security](https://github.com/KennaSecurity/toolkit) | [Nucleus](https://help.nucleussec.com/docs/githubapp) | Sentinel | Sumologic | [Splunk](https://github.com/splunk/github_app_for_splunk/)
+ [Datadog](https://docs.datadoghq.com/integrations/github/) | [Elastic Search](https://docs.elastic.co/integrations/github) | [Kenna Security](https://github.com/KennaSecurity/toolkit) | [Nucleus](https://help.nucleussec.com/docs/githubapp) | [Sentinel](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoftcorporation1622712991604.sentinel4github?tab=overview) | [Sumo Logic](https://www.sumologic.com/application/github/) | [Splunk](https://github.com/splunk/github_app_for_splunk/)
 
 ### Enterprise Server Storage Partners
 [Cloudian](https://cloudian.com/products/hyperstore/) | [Hitachi Vantara](https://www.hitachivantara.com/en-us/products/storage/object-storage.html) | [MinIO](https://docs.min.io/minio/baremetal/) | [NetApp](https://www.netapp.com/data-storage/storagegrid/) | [Pure Storage](https://www.purestorage.com/products/file-and-object/flashblade.html)
