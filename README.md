@@ -3,6 +3,7 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 
 ## 📰 Partner Integration News
 
+- [Vulnerability Management Partners + GitHub Advanced Security](https://github.blog/2023-03-10-introducing-github-vulnerability-management-integrations-for-security-professionals/) = Extending GHAS alerts to additional security partners
 - [ARM + GitHub Actions](https://github.blog/2022-11-02-github-partners-with-arm-to-revolutionize-internet-of-things-software-development-with-github-actions/) = Revolutionizing Internet of Things software development
 - [SIEM Partners + GitHub Advanced Security](https://github.blog/2022-10-13-introducing-github-advanced-security-siem-integrations-for-security-professionals/) = Integrating GHAS alerts with security partners
 - [Storage Partners + GitHub Enterprise Server](https://github.com/github-technology-partners/ghes-storage-partners) = Expanding storage options for actions and packages
@@ -12,7 +13,7 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 
 ### 🔒 Secret Scanning Partners
 
-[WakaTime](https://github.blog/changelog/2023-02-10-wakatime-is-now-a-github-secret-scanning-partner)
+| [WakaTime](https://github.blog/changelog/2023-02-10-wakatime-is-now-a-github-secret-scanning-partner)
 | [Persona](https://github.blog/changelog/2023-02-03-persona-is-now-a-github-secret-scanning-partner)
 | [Twilio Segment](https://github.blog/changelog/2023-01-20-twilio-segment-is-now-a-github-secret-scanning-partner)
 | [Telynx](https://github.blog/changelog/2022-12-09-telnyx-is-now-a-github-secret-scanning-partner)
@@ -31,9 +32,25 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 | [JD Cloud](https://github.blog/changelog/2022-04-14-jd-cloud-is-now-a-github-secret-scanning-partner)
 | [Supabase](https://github.blog/changelog/2022-03-28-supabase-is-now-a-github-secret-scanning-partner)
 | [Octopus Deploy](https://github.blog/changelog/2022-03-18-octopus-deploy-is-now-a-github-secret-scanning-partner)
+|
 
 ### 🔔 Advanced Security Reporting Partners
- [Datadog](https://docs.datadoghq.com/integrations/github/) | [Elastic Search](https://docs.elastic.co/integrations/github) | [Kenna Security](https://github.com/KennaSecurity/toolkit) | [Nucleus](https://help.nucleussec.com/docs/githubapp) | [Sentinel](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoftcorporation1622712991604.sentinel4github?tab=overview) | [Sumo Logic](https://www.sumologic.com/application/github/) | [Splunk](https://github.com/splunk/github_app_for_splunk/)
+ | [Datadog](https://docs.datadoghq.com/integrations/github/) 
+ | [Elastic Search](https://docs.elastic.co/integrations/github) 
+ | [Kenna Security](https://github.com/KennaSecurity/toolkit) 
+ | [Nucleus](https://help.nucleussec.com/docs/githubapp) 
+ | [Sentinel](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoftcorporation1622712991604.sentinel4github?tab=overview) 
+ | [Sumo Logic](https://www.sumologic.com/application/github/) 
+ | [Splunk](https://github.com/splunk/github_app_for_splunk/) 
+ | [Brinqa](https://www.brinqa.com/connectors/) 
+ | [Nucleus](https://nucleussec.com/use-cases/github/) 
+ | [ThreadFix](https://github.com/marketplace/actions/upload-code-scanning-results-to-threadfix)
+ |
 
 ### 💾 Enterprise Server Storage Partners
-[Cloudian](https://cloudian.com/products/hyperstore/) | [Hitachi Vantara](https://www.hitachivantara.com/en-us/products/storage/object-storage.html) | [MinIO](https://docs.min.io/minio/baremetal/) | [NetApp](https://www.netapp.com/data-storage/storagegrid/) | [Pure Storage](https://www.purestorage.com/products/file-and-object/flashblade.html)
+| [Cloudian](https://cloudian.com/products/hyperstore/) 
+| [Hitachi Vantara](https://www.hitachivantara.com/en-us/products/storage/object-storage.html) 
+| [MinIO](https://docs.min.io/minio/baremetal/) 
+| [NetApp](https://www.netapp.com/data-storage/storagegrid/) 
+| [Pure Storage](https://www.purestorage.com/products/file-and-object/flashblade.html)
+|
