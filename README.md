@@ -13,7 +13,7 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 
 ### 🔒 Secret Scanning Partners
 
-| [WakaTime](https://github.blog/changelog/2023-02-10-wakatime-is-now-a-github-secret-scanning-partner)
+[WakaTime](https://github.blog/changelog/2023-02-10-wakatime-is-now-a-github-secret-scanning-partner)
 | [Persona](https://github.blog/changelog/2023-02-03-persona-is-now-a-github-secret-scanning-partner)
 | [Twilio Segment](https://github.blog/changelog/2023-01-20-twilio-segment-is-now-a-github-secret-scanning-partner)
 | [Telynx](https://github.blog/changelog/2022-12-09-telnyx-is-now-a-github-secret-scanning-partner)
@@ -32,25 +32,25 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 | [JD Cloud](https://github.blog/changelog/2022-04-14-jd-cloud-is-now-a-github-secret-scanning-partner)
 | [Supabase](https://github.blog/changelog/2022-03-28-supabase-is-now-a-github-secret-scanning-partner)
 | [Octopus Deploy](https://github.blog/changelog/2022-03-18-octopus-deploy-is-now-a-github-secret-scanning-partner)
-|
 
 ### 🔔 Advanced Security Reporting Partners
- | [Datadog](https://docs.datadoghq.com/integrations/github/) 
+ [Datadog](https://docs.datadoghq.com/integrations/github/) 
  | [Elastic Search](https://docs.elastic.co/integrations/github) 
  | [Kenna Security](https://github.com/KennaSecurity/toolkit) 
  | [Nucleus](https://help.nucleussec.com/docs/githubapp) 
  | [Sentinel](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoftcorporation1622712991604.sentinel4github?tab=overview) 
  | [Sumo Logic](https://www.sumologic.com/application/github/) 
  | [Splunk](https://github.com/splunk/github_app_for_splunk/) 
+ | [Panther](https://panther.com/integrations/github-logs/)
  | [Brinqa](https://www.brinqa.com/connectors/) 
  | [Nucleus](https://nucleussec.com/use-cases/github/) 
  | [ThreadFix](https://github.com/marketplace/actions/upload-code-scanning-results-to-threadfix)
- |
+ 
 
 ### 💾 Enterprise Server Storage Partners
-| [Cloudian](https://cloudian.com/products/hyperstore/) 
+[Cloudian](https://cloudian.com/products/hyperstore/) 
 | [Hitachi Vantara](https://www.hitachivantara.com/en-us/products/storage/object-storage.html) 
 | [MinIO](https://docs.min.io/minio/baremetal/) 
 | [NetApp](https://www.netapp.com/data-storage/storagegrid/) 
 | [Pure Storage](https://www.purestorage.com/products/file-and-object/flashblade.html)
-|
+
