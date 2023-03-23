@@ -34,7 +34,10 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 | [Octopus Deploy](https://github.blog/changelog/2022-03-18-octopus-deploy-is-now-a-github-secret-scanning-partner)
 
 ### 🔔 Advanced Security Reporting Partners
- [Datadog](https://docs.datadoghq.com/integrations/github/) 
+ [ThreadFix](https://github.com/marketplace/actions/upload-code-scanning-results-to-threadfix)
+ | [Brinqa](https://www.brinqa.com/connectors/) 
+ | [Nucleus](https://nucleussec.com/use-cases/github/) 
+ | [Datadog](https://docs.datadoghq.com/integrations/github/) 
  | [Elastic Search](https://docs.elastic.co/integrations/github) 
  | [Kenna Security](https://github.com/KennaSecurity/toolkit) 
  | [Nucleus](https://help.nucleussec.com/docs/githubapp) 
@@ -42,10 +45,6 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
  | [Sumo Logic](https://www.sumologic.com/application/github/) 
  | [Splunk](https://github.com/splunk/github_app_for_splunk/) 
  | [Panther](https://panther.com/integrations/github-logs/)
- | [Brinqa](https://www.brinqa.com/connectors/) 
- | [Nucleus](https://nucleussec.com/use-cases/github/) 
- | [ThreadFix](https://github.com/marketplace/actions/upload-code-scanning-results-to-threadfix)
- 
 
 ### 💾 Enterprise Server Storage Partners
 [Cloudian](https://cloudian.com/products/hyperstore/) 
