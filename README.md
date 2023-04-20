@@ -3,6 +3,7 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 
 ## 📰 Partner Integration News
 
+- [Deployment Protection Rules Partners + GitHub Actions](https://github.blog/2023-04-20-announcing-github-actions-deployment-protection-rules-now-in-public-beta/) = Public beta of additonal deployment controls to CI/CD workflows
 - [Vulnerability Management Partners + GitHub Advanced Security](https://github.blog/2023-03-10-introducing-github-vulnerability-management-integrations-for-security-professionals/) = Extending GHAS alerts to additional security partners
 - [ARM + GitHub Actions](https://github.blog/2022-11-02-github-partners-with-arm-to-revolutionize-internet-of-things-software-development-with-github-actions/) = Revolutionizing Internet of Things software development
 - [SIEM Partners + GitHub Advanced Security](https://github.blog/2022-10-13-introducing-github-advanced-security-siem-integrations-for-security-professionals/) = Integrating GHAS alerts with security partners
@@ -10,6 +11,14 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
  - [LinkedIn Learning + GitHub Codespaces](https://www.linkedin.com/learning/learning-github-codespaces) = Enabling new online learning
 - [JetBrains + GitHub Codespaces](https://github.blog/changelog/2022-11-09-github-codespaces-with-jetbrains-ides-public-beta/) = Supporting JetBrains IDE via the JetBrains Gateway
 - [Perforce + GitHub Actions](https://www.perforce.com/blog/vcs/perforce-github-helix-core-actions) = Supporting game development via Perforce Helix Core
+
+### ☑️ Deployment Protection Rules
+[Datadog](https://docs.datadoghq.com/continuous_integration/guides/github_gating)
+| [Honeycomb](https://www.honeycomb.io/blog/honeycomb-deployment-protection-rules?utm_medium=partner&utm_source=github&utm_campaign=2023bd_gates&utm_content=blog)
+| [New Relic](https://docs.newrelic.com/whats-new/2023/04/whats-new-04-20-github-integration)
+| [Nodesource](http://nodesource.com/)
+| [Sentry](https://bit.ly/sentry-github-deploy-protection)
+| [Service Now](https://www.servicenow.com/products/devops.html)
 
 ### 🔒 Secret Scanning Partners
 
