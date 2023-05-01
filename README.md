@@ -21,8 +21,8 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 | [Service Now](https://www.servicenow.com/products/devops.html)
 
 ### 🔒 Secret Scanning Partners
-
-[WakaTime](https://github.blog/changelog/2023-02-10-wakatime-is-now-a-github-secret-scanning-partner)
+[Graphana Labs](https://github.blog/changelog/2023-04-28-grafana-labs-is-now-a-github-secret-scanning-partner/)
+| [WakaTime](https://github.blog/changelog/2023-02-10-wakatime-is-now-a-github-secret-scanning-partner)
 | [Persona](https://github.blog/changelog/2023-02-03-persona-is-now-a-github-secret-scanning-partner)
 | [Twilio Segment](https://github.blog/changelog/2023-01-20-twilio-segment-is-now-a-github-secret-scanning-partner)
 | [Telynx](https://github.blog/changelog/2022-12-09-telnyx-is-now-a-github-secret-scanning-partner)
