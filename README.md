@@ -12,7 +12,7 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 - [JetBrains + GitHub Codespaces](https://github.blog/changelog/2022-11-09-github-codespaces-with-jetbrains-ides-public-beta/) = Supporting JetBrains IDE via the JetBrains Gateway
 - [Perforce + GitHub Actions](https://www.perforce.com/blog/vcs/perforce-github-helix-core-actions) = Supporting game development via Perforce Helix Core
 
-### ☑️ Deployment Protection Rules Partners
+### ☑️ Deployment Protection Rules Partners (6)
 [Datadog](https://docs.datadoghq.com/continuous_integration/guides/github_gating)
 | [Honeycomb](https://www.honeycomb.io/blog/honeycomb-deployment-protection-rules?utm_medium=partner&utm_source=github&utm_campaign=2023bd_gates&utm_content=blog)
 | [New Relic](https://docs.newrelic.com/whats-new/2023/04/whats-new-04-20-github-integration)
@@ -20,7 +20,7 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 | [Sentry](https://bit.ly/sentry-github-deploy-protection)
 | [Service Now](https://www.servicenow.com/products/devops.html)
 
-### 🔒 Secret Scanning Partners
+### 🔒 Secret Scanning Partners (22)
 [Doopler](https://github.blog/changelog/2023-05-03-doppler-is-a-github-secret-scanning-partner/)
 | [Rootly](https://github.blog/changelog/2023-05-02-rootly-is-now-a-github-secret-scanning-partner/)
 | [Grafana Labs](https://github.blog/changelog/2023-04-28-grafana-labs-is-now-a-github-secret-scanning-partner/)
@@ -44,7 +44,7 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 | [Supabase](https://github.blog/changelog/2022-03-28-supabase-is-now-a-github-secret-scanning-partner)
 | [Octopus Deploy](https://github.blog/changelog/2022-03-18-octopus-deploy-is-now-a-github-secret-scanning-partner)
 
-### 🔔 Advanced Security Reporting Partners
+### 🔔 Advanced Security Reporting Partners (11)
  [ThreadFix](https://github.com/marketplace/actions/upload-code-scanning-results-to-threadfix)
  | [Brinqa](https://www.brinqa.com/connectors/) 
  | [Nucleus](https://nucleussec.com/use-cases/github/) 
@@ -56,8 +56,8 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
  | [Sumo Logic](https://www.sumologic.com/application/github/) 
  | [Splunk](https://github.com/splunk/github_app_for_splunk/) 
  | [Panther](https://panther.com/integrations/github-logs/)
-
-### 💾 Enterprise Server Storage Partners
+ 
+### 💾 Enterprise Server Storage Partners (5)
 [Cloudian](https://cloudian.com/products/hyperstore/) 
 | [Hitachi Vantara](https://www.hitachivantara.com/en-us/products/storage/object-storage.html) 
 | [MinIO](https://docs.min.io/minio/baremetal/) 
