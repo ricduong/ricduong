@@ -59,6 +59,8 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
  | [Panther](https://panther.com/integrations/github-logs/)
  
 ### 💾 Enterprise Server Storage Partners (5)
+Additional storage options in GHES
+
 [Cloudian](https://cloudian.com/products/hyperstore/) 
 | [Hitachi Vantara](https://www.hitachivantara.com/en-us/products/storage/object-storage.html) 
 | [MinIO](https://docs.min.io/minio/baremetal/) 
