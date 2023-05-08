@@ -5,15 +5,13 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 
 - [Deployment Protection Rules Partners + GitHub Actions](https://github.blog/2023-04-20-announcing-github-actions-deployment-protection-rules-now-in-public-beta/) = Public beta of additonal deployment controls to CI/CD workflows
 - [Vulnerability Management Partners + GitHub Advanced Security](https://github.blog/2023-03-10-introducing-github-vulnerability-management-integrations-for-security-professionals/) = Extending GHAS alerts to additional security partners
+- [Automate your CI/CD workflows with GitHub Actions](https://www.youtube.com/watch?v=qy_HaIaNbkE) = Virtual Summit with Hashicorp, Datadog, Launch Darkly and OctoML
 - [ARM + GitHub Actions](https://github.blog/2022-11-02-github-partners-with-arm-to-revolutionize-internet-of-things-software-development-with-github-actions/) = Revolutionizing Internet of Things software development
 - [SIEM Partners + GitHub Advanced Security](https://github.blog/2022-10-13-introducing-github-advanced-security-siem-integrations-for-security-professionals/) = Integrating GHAS alerts with security partners
 - [Storage Partners + GitHub Enterprise Server](https://github.com/github-technology-partners/ghes-storage-partners) = Expanding storage options for actions and packages
- - [LinkedIn Learning + GitHub Codespaces](https://www.linkedin.com/learning/learning-github-codespaces) = Enabling new online learning
+- [LinkedIn Learning + GitHub Codespaces](https://www.linkedin.com/learning/learning-github-codespaces) = Enabling new online learning
 - [JetBrains + GitHub Codespaces](https://github.blog/changelog/2022-11-09-github-codespaces-with-jetbrains-ides-public-beta/) = Supporting JetBrains IDE via the JetBrains Gateway
 - [Perforce + GitHub Actions](https://www.perforce.com/blog/vcs/perforce-github-helix-core-actions) = Supporting game development via Perforce Helix Core
-
-### 🍎 Partner Integration Education
-- [Automate your Ci/CD workflows with GitHub Actions](https://www.youtube.com/watch?v=qy_HaIaNbkE) = Hashicorp, Datadog, Launch Darkly and OctoML demo
 
 ### ☑️ Deployment Protection Rules Partners (6)
 [Datadog](https://docs.datadoghq.com/continuous_integration/guides/github_gating)
