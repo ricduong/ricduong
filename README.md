@@ -3,7 +3,7 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 
 ## 📰 Partner Integration News
 
-- [Application Security 3.0 + Partners](https://resources.github.com/security/virtual-summit/?utm_source=social&utm_medium=invite&utm_campaign=2023q3_webinar_amer-security_virtual_summit) = Virtual Summit with 42Crunch, NowSecure and Nucleus Security)
+- [Application Security 3.0 with Security Partners](https://resources.github.com/security/virtual-summit/?utm_source=social&utm_medium=invite&utm_campaign=2023q3_webinar_amer-security_virtual_summit) = Virtual Summit with 42Crunch, NowSecure and Nucleus Security)
 - [Deployment Protection Rules Partners + GitHub Actions](https://github.blog/2023-04-20-announcing-github-actions-deployment-protection-rules-now-in-public-beta/) = Public beta of additonal deployment controls to CI/CD workflows
 - [Vulnerability Management Partners + GitHub Advanced Security](https://github.blog/2023-03-10-introducing-github-vulnerability-management-integrations-for-security-professionals/) = Extending GHAS alerts to additional security partners
 - [Automate your CI/CD workflows with GitHub Actions](https://www.youtube.com/watch?v=qy_HaIaNbkE) = Virtual Summit with Hashicorp, Datadog, Launch Darkly and OctoML
