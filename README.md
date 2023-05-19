@@ -22,8 +22,9 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 | [Sentry](https://bit.ly/sentry-github-deploy-protection)
 | [Service Now](https://www.servicenow.com/products/devops.html)
 
-### 🔒 Secret Scanning Partners (24)
-[Highnote](https://github.blog/changelog/2023-05-17-highnote-is-now-a-github-secret-scanning-partner)
+### 🔒 Secret Scanning Partners (25)
+[LogicMonitor](https://github.blog/changelog/2023-05-19-logicmonitor-is-now-a-github-secret-scanning-partner/)
+| [Highnote](https://github.blog/changelog/2023-05-17-highnote-is-now-a-github-secret-scanning-partner)
 | [Aiven](https://github.blog/changelog/2023-05-10-aiven-is-a-github-secret-scanning-partner/)
 | [Doopler](https://github.blog/changelog/2023-05-03-doppler-is-a-github-secret-scanning-partner/)
 | [Rootly](https://github.blog/changelog/2023-05-02-rootly-is-now-a-github-secret-scanning-partner/)
