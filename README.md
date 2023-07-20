@@ -22,8 +22,9 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 | [Sentry](https://bit.ly/sentry-github-deploy-protection)
 | [Service Now](https://www.servicenow.com/products/devops.html)
 
-### 🔒 Secret Scanning Partners (27)
-[Workato](https://github.blog/changelog/2023-07-05-workato-is-now-a-github-secret-scanning-partner/)
+### 🔒 Secret Scanning Partners (28)
+[Defined](https://github.blog/changelog/2023-07-20-defined-is-now-a-github-secret-scanning-partner)
+| [Workato](https://github.blog/changelog/2023-07-05-workato-is-now-a-github-secret-scanning-partner/)
 | [Canadian Digital Service](https://github.blog/changelog/2023-05-25-candian-digital-service-is-now-a-github-secret-scanning-partner/)
 | [LogicMonitor](https://github.blog/changelog/2023-05-19-logicmonitor-is-now-a-github-secret-scanning-partner/)
 | [Highnote](https://github.blog/changelog/2023-05-17-highnote-is-now-a-github-secret-scanning-partner)
