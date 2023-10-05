@@ -54,8 +54,9 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 | [Supabase](https://github.blog/changelog/2022-03-28-supabase-is-now-a-github-secret-scanning-partner)
 | [Octopus Deploy](https://github.blog/changelog/2022-03-18-octopus-deploy-is-now-a-github-secret-scanning-partner)
 
-### 🔔 Advanced Security Reporting Partners (11)
- [ThreadFix](https://github.com/marketplace/actions/upload-code-scanning-results-to-threadfix)
+### 🔔 Advanced Security Reporting Partners (12)
+[Atlassian Jira](https://community.atlassian.com/t5/DevOps-articles/Manage-GitHub-Advanced-Security-vulnerabilities-in-Jira/ba-p/2482106)
+|  [ThreadFix](https://github.com/marketplace/actions/upload-code-scanning-results-to-threadfix)
  | [Brinqa](https://www.brinqa.com/connectors/) 
  | [Nucleus](https://nucleussec.com/use-cases/github/) 
  | [Datadog](https://docs.datadoghq.com/integrations/github/) 
