@@ -2,6 +2,7 @@ Hello 👋, I am [@ricduong](https://www.linkedin.com/in/rickduong/), the Execut
 I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enjoy 🚴‍♂️ cycling and admire the 🎇 night sky as much as I can. 
 
 ## 📰 Partner Integration News
+- [Continous Deployment Fundamentals with GitHub Actions](https://resources.github.com/webcasts/continuous-deployment-fundamentals-with-github-actions/) = Virtual Summit with ServiceNow and Honeycomb
 - [Developing with Codespaces templates](https://github.blog/2023-08-24-unleashing-github-codespaces-templates-to-ignite-your-development/) = Leverage GitHub and partner created templates to streamline and improve development
 - [Application Security 3.0 with Security Partners](https://resources.github.com/security/virtual-summit/?utm_source=social&utm_medium=invite&utm_campaign=2023q3_webinar_amer-security_virtual_summit) = Virtual Summit with 42Crunch, NowSecure and Nucleus Security
 - [Deployment Protection Rules Partners + GitHub Actions](https://github.blog/2023-04-20-announcing-github-actions-deployment-protection-rules-now-in-public-beta/) = Public beta of additonal deployment controls to CI/CD workflows
