@@ -23,8 +23,9 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 | [Sentry](https://bit.ly/sentry-github-deploy-protection)
 | [Service Now](https://www.servicenow.com/products/devops.html)
 
-### 🔒 Secret Scanning Partners (37)
-[Volcengine](https://github.blog/changelog/2024-03-27-volcengine-is-now-a-github-secret-scanning-partner/)
+### 🔒 Secret Scanning Partners (38)
+[Mergify](https://github.blog/changelog/2024-03-27-mergify-is-now-a-github-secret-scanning-partner/)
+| [Volcengine](https://github.blog/changelog/2024-03-27-volcengine-is-now-a-github-secret-scanning-partner/)
 | [Ligthspeed](https://github.blog/changelog/2024-03-26-lightspeed-is-now-a-github-secret-scanning-partner/)
 | [WorkOS](https://github.blog/changelog/2024-03-26-workos-is-now-a-github-secret-scanning-partner/)
 | [Canva](https://github.blog/changelog/2023-12-21-canva-is-now-a-github-secret-scanning-partner/)
