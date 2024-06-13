@@ -2,6 +2,8 @@ Hello 👋, I am [@ricduong](https://www.linkedin.com/in/rickduong/), the Execut
 I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enjoy 🚴‍♂️ cycling and admire the 🎇 night sky as much as I can. 
 
 ## 📰 Partner Integration News
+- [Arm64 on GitHub Actions: Powering faster, more efficient build systems](https://github.blog/2024-06-03-arm64-on-github-actions-powering-faster-more-efficient-build-systems/) = ARM based Linux and Windows runners are available in Public Beta.
+- [Introducing GitHub Copilot Extensions: Unlocking unlimited possibilities with our ecosystem of partners](https://github.blog/2024-05-21-introducing-github-copilot-extensions/) = Copilot Chat partners are now available in Private Beta.
 - [Continous Deployment Fundamentals with GitHub Actions](https://resources.github.com/webcasts/continuous-deployment-fundamentals-with-github-actions/) = Virtual Summit with ServiceNow and Honeycomb
 - [Developing with Codespaces templates](https://github.blog/2023-08-24-unleashing-github-codespaces-templates-to-ignite-your-development/) = Leverage GitHub and partner created templates to streamline and improve development
 - [Application Security 3.0 with Security Partners](https://resources.github.com/security/virtual-summit/?utm_source=social&utm_medium=invite&utm_campaign=2023q3_webinar_amer-security_virtual_summit) = Virtual Summit with 42Crunch, NowSecure and Nucleus Security
