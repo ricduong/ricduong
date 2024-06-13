@@ -17,13 +17,18 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 - [JetBrains + GitHub Codespaces](https://github.blog/changelog/2022-11-09-github-codespaces-with-jetbrains-ides-public-beta/) = Supporting JetBrains IDE via the JetBrains Gateway
 - [Perforce + GitHub Actions](https://www.perforce.com/blog/vcs/perforce-github-helix-core-actions) = Supporting game development via Perforce Helix Core
 
-### ☑️ Deployment Protection Rules Partners (6)
-[Datadog](https://docs.datadoghq.com/continuous_integration/guides/github_gating)
-| [Honeycomb](https://www.honeycomb.io/blog/honeycomb-deployment-protection-rules?utm_medium=partner&utm_source=github&utm_campaign=2023bd_gates&utm_content=blog)
-| [New Relic](https://docs.newrelic.com/whats-new/2023/04/whats-new-04-20-github-integration)
-| [Nodesource](http://nodesource.com/)
-| [Sentry](https://bit.ly/sentry-github-deploy-protection)
-| [Service Now](https://www.servicenow.com/products/devops.html)
+### Copilot Chat Partners (11)
+[Docker](https://github.com/marketplace/docker-for-github-copilot)
+| [Octopus Deploy](https://github.com/marketplace/octopus-github-copilot-extension)
+| [ReadMe](https://github.com/marketplace/readme-api)
+| [Sentry](https://github.com/marketplace/sentry-github-copilot-extension)
+| [LamdaTest](https://github.com/marketplace/lambdatest)
+| [Product Science](https://github.com/marketplace/productscience-app)
+| [DataStax](https://github.com/marketplace/datastax-astra-db-copilot-plugin)
+| [Microsoft Teams](https://github.com/marketplace/teamsapp)
+| [LaunchDarkly](https://github.com/marketplace/launchdarkly-copilot-extension)
+| [Pinecone AI](https://github.com/marketplace/pinecone-ai)
+| [Pangea](https://github.com/marketplace/pangea-cyber)
 
 ### 🔒 Secret Scanning Partners (38)
 [Mergify](https://github.blog/changelog/2024-03-27-mergify-is-now-a-github-secret-scanning-partner/)
@@ -78,7 +83,15 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
  | [Sumo Logic](https://www.sumologic.com/application/github/) 
  | [Splunk](https://github.com/splunk/github_app_for_splunk/) 
  | [Panther](https://panther.com/integrations/github-logs/)
- 
+
+### ☑️ Deployment Protection Rules Partners (6)
+[Datadog](https://docs.datadoghq.com/continuous_integration/guides/github_gating)
+| [Honeycomb](https://www.honeycomb.io/blog/honeycomb-deployment-protection-rules?utm_medium=partner&utm_source=github&utm_campaign=2023bd_gates&utm_content=blog)
+| [New Relic](https://docs.newrelic.com/whats-new/2023/04/whats-new-04-20-github-integration)
+| [Nodesource](http://nodesource.com/)
+| [Sentry](https://bit.ly/sentry-github-deploy-protection)
+| [Service Now](https://www.servicenow.com/products/devops.html)
+
 ### 💾 Enterprise Server Storage Partners (5)
 [Cloudian](https://cloudian.com/products/hyperstore/) 
 | [Hitachi Vantara](https://www.hitachivantara.com/en-us/products/storage/object-storage.html) 
