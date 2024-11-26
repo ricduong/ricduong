@@ -24,7 +24,7 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 - [JetBrains + GitHub Codespaces](https://github.blog/changelog/2022-11-09-github-codespaces-with-jetbrains-ides-public-beta/) = Supporting JetBrains IDE via the JetBrains Gateway
 - [Perforce + GitHub Actions](https://www.perforce.com/blog/vcs/perforce-github-helix-core-actions) = Supporting game development via Perforce Helix Core
 
-### 💬 Copilot Chat Partners (11)
+### 💬 Copilot Chat Partners (24)
 [Agentic Search Ai](https://github.com/marketplace/agentic-search-ai)
 | [Carta API](https://github.com/marketplace/carta-api)
 | [Stack Overflow](https://github.com/marketplace/stack-overflow-extension-for-github-copilot)
