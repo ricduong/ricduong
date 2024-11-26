@@ -4,7 +4,9 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 ## 📰 Partner Integration News
 
 - [2024 GitHub Partner of the Year](https://github.blog/news-insights/company-news/celebrating-the-github-awards-2024-recipients/) = Celebrating the Partners of the Year recipients.
+- [Anthropic’s Claude 3.5 Sonnet, Google’s Gemini 1.5 Pro, and OpenAI’s o1-preview in Copilot](https://github.blog/news-insights/product-news/bringing-developer-choice-to-copilot/) = Bringing developer choice to Copilot.
 - [Enhancing the GitHub Copilot ecoystem with Copilot Extensions](https://github.blog/news-insights/product-news/enhancing-the-github-copilot-ecosystem-with-copilot-extensions-now-in-public-beta/) = Copilot Chat partners are now in Public Beta.
+- [Introducing GitHub Models](https://github.blog/news-insights/product-news/introducing-github-models/) = Enabling our GitHub users to become AI engineers and build with industry-leading AI models.
 - [GitHub Actions: arm64 Linux and Windows runners](https://github.blog/changelog/2024-09-03-github-actions-arm64-linux-and-windows-runners-are-now-generally-available) = ARM based Linux and Windows runners are in General Available.
 - [Gartner's first-ever Magic Quadrant Leader for AI Code Assistants](https://github.blog/news-insights/company-news/github-named-a-leader-in-the-gartner-first-ever-magic-quadrant-for-ai-code-assistants/) = Copilot Extensions unlocks unlimited possibilities with partners.
 - [Arm64 on GitHub Actions](https://github.blog/2024-06-03-arm64-on-github-actions-powering-faster-more-efficient-build-systems/) = ARM based Linux and Windows runners are available in Public Beta.
