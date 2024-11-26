@@ -1,8 +1,8 @@
-Hello 👋, I am [@ricduong](https://www.linkedin.com/in/rickduong/), the Executive Director for the [Technology Partnership and Engineering]([url](https://partner.github.com/technology-partners)) team at [GitHub](http://github.com). GitHub is an ecosystem with over 100 million developers and our team works with over 500 partners to integrate their technology to help enable all of those developers.
+Hello 👋, I am [@ricduong](https://www.linkedin.com/in/rickduong/), the Executive Director for the [Technology Partnership and Engineering]([url](https://partner.github.com/technology-partners)) team at [GitHub](http://github.com). GitHub is an ecosystem with over 100 million developers and our team works with over 900 partners to integrate their technology to help enable all of those developers.
 I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enjoy 🚴‍♂️ cycling and admire the 🎇 night sky as much as I can. 
 
 ## 📰 Partner Integration News
-
+- [Introducing GitHub Copilot Skillsets](https://github.blog/changelog/2024-11-19-build-copilot-extensions-faster-with-skillsets/) = Build Extensions faster with a new lightweight approach.
 - [2024 GitHub Partner of the Year](https://github.blog/news-insights/company-news/celebrating-the-github-awards-2024-recipients/) = Celebrating the Partners of the Year recipients.
 - [Anthropic’s Claude 3.5 Sonnet, Google’s Gemini 1.5 Pro, and OpenAI’s o1-preview in Copilot](https://github.blog/news-insights/product-news/bringing-developer-choice-to-copilot/) = Bringing developer choice to Copilot.
 - [Enhancing the GitHub Copilot ecoystem with Copilot Extensions](https://github.blog/news-insights/product-news/enhancing-the-github-copilot-ecosystem-with-copilot-extensions-now-in-public-beta/) = Copilot Chat partners are now in Public Beta.
