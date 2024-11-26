@@ -2,8 +2,13 @@ Hello 👋, I am [@ricduong](https://www.linkedin.com/in/rickduong/), the Execut
 I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enjoy 🚴‍♂️ cycling and admire the 🎇 night sky as much as I can. 
 
 ## 📰 Partner Integration News
-- [Arm64 on GitHub Actions: Powering faster, more efficient build systems](https://github.blog/2024-06-03-arm64-on-github-actions-powering-faster-more-efficient-build-systems/) = ARM based Linux and Windows runners are available in Public Beta.
-- [Introducing GitHub Copilot Extensions: Unlocking unlimited possibilities with our ecosystem of partners](https://github.blog/2024-05-21-introducing-github-copilot-extensions/) = Copilot Chat partners are now available in Private Beta.
+
+- [2024 GitHub Partner of the Year](https://github.blog/news-insights/company-news/celebrating-the-github-awards-2024-recipients/) = Celebrating the Partners of the Year recipients.
+- [Enhancing the GitHub Copilot ecoystem with Copilot Extensions](https://github.blog/news-insights/product-news/enhancing-the-github-copilot-ecosystem-with-copilot-extensions-now-in-public-beta/) = Copilot Chat partners are now in Public Beta.
+- [GitHub Actions: arm64 Linux and Windows runners](https://github.blog/changelog/2024-09-03-github-actions-arm64-linux-and-windows-runners-are-now-generally-available) = ARM based Linux and Windows runners are in General Available.
+- [Gartner's first-ever Magic Quadrant Leader for AI Code Assistants](https://github.blog/news-insights/company-news/github-named-a-leader-in-the-gartner-first-ever-magic-quadrant-for-ai-code-assistants/) = Copilot Extensions unlocks unlimited possibilities with partners.
+- [Arm64 on GitHub Actions](https://github.blog/2024-06-03-arm64-on-github-actions-powering-faster-more-efficient-build-systems/) = ARM based Linux and Windows runners are available in Public Beta.
+- [Introducing GitHub Copilot Extensions](https://github.blog/2024-05-21-introducing-github-copilot-extensions/) = Copilot Chat partners are now available in Private Beta.
 - [Continous Deployment Fundamentals with GitHub Actions](https://resources.github.com/webcasts/continuous-deployment-fundamentals-with-github-actions/) = Virtual Summit with ServiceNow and Honeycomb
 - [Developing with Codespaces templates](https://github.blog/2023-08-24-unleashing-github-codespaces-templates-to-ignite-your-development/) = Leverage GitHub and partner created templates to streamline and improve development
 - [Application Security 3.0 with Security Partners](https://resources.github.com/security/virtual-summit/?utm_source=social&utm_medium=invite&utm_campaign=2023q3_webinar_amer-security_virtual_summit) = Virtual Summit with 42Crunch, NowSecure and Nucleus Security
@@ -18,7 +23,20 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enj
 - [Perforce + GitHub Actions](https://www.perforce.com/blog/vcs/perforce-github-helix-core-actions) = Supporting game development via Perforce Helix Core
 
 ### 💬 Copilot Chat Partners (11)
-[Docker](https://github.com/marketplace/docker-for-github-copilot)
+[Agentic Search Ai](https://github.com/marketplace/agentic-search-ai)
+| [Carta API](https://github.com/marketplace/carta-api)
+| [Stack Overflow](https://github.com/marketplace/stack-overflow-extension-for-github-copilot)
+| [PerplexityAI](https://github.com/marketplace/perplexityai)
+| [Crowdbotics](https://github.com/marketplace/crowdbotics-for-github-copilot)
+| [Mermaid Chart](https://github.com/marketplace/mermaid-chart)
+| [Swimm](https://github.com/marketplace/swimm-for-github-copilot)
+| [Atlassian](https://github.com/marketplace/atlassian)
+| [Skyramp](https://github.com/marketplace/skyramp-for-github-copilot)
+| [Spice.ai](https://github.com/marketplace/spice-ai-for-github-copilot)
+| [JFrog](https://github.com/marketplace/jfrog)
+| [PolyAPI](https://github.com/marketplace/polyapi)
+| [New Relic](https://github.com/marketplace/newrelic-copilot-extension)
+| [Docker](https://github.com/marketplace/docker-for-github-copilot)
 | [Octopus Deploy](https://github.com/marketplace/octopus-github-copilot-extension)
 | [ReadMe](https://github.com/marketplace/readme-api)
 | [Sentry](https://github.com/marketplace/sentry-github-copilot-extension)
