@@ -1,5 +1,5 @@
 Hello 👋, I am [@ricduong](https://www.linkedin.com/in/rickduong/), the Executive Director for the [Technology Partnership and Engineering]([url](https://partner.github.com/technology-partners)) team at [GitHub](http://github.com). GitHub is an ecosystem with over 100 million developers and our team works with over 900 partners to integrate their technology to help enable all of those developers.
-I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I am enjoy 🚴‍♂️ cycling and admire the 🎇 night sky as much as I can. 
+I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I enjoy 🚴‍♂️ cycling and admire the 🎇 night sky as much as I can. 
 
 ## 📰 Partner Integration News
 - [Introducing GitHub Copilot Skillsets](https://github.blog/changelog/2024-11-19-build-copilot-extensions-faster-with-skillsets/) = Build Extensions faster with a new lightweight approach.
