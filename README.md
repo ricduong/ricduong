@@ -5,6 +5,7 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I enjoy 
 - [Introducing GitHub Copilot Skillsets](https://github.blog/changelog/2024-11-19-build-copilot-extensions-faster-with-skillsets/) = Build Extensions faster with a new lightweight approach.
 - [2024 GitHub Partner of the Year](https://github.blog/news-insights/company-news/celebrating-the-github-awards-2024-recipients/) = Celebrating the Partners of the Year recipients.
 - [Anthropic’s Claude 3.5 Sonnet, Google’s Gemini 1.5 Pro, and OpenAI’s o1-preview in Copilot](https://github.blog/news-insights/product-news/bringing-developer-choice-to-copilot/) = Bringing developer choice to Copilot.
+- [Extending GitHub Copilot](https://www.youtube.com/watch?v=JclDSHrSZV0) = Partner developer insights from Atlassian, Elastic and Split 
 - [Enhancing the GitHub Copilot ecoystem with Copilot Extensions](https://github.blog/news-insights/product-news/enhancing-the-github-copilot-ecosystem-with-copilot-extensions-now-in-public-beta/) = Copilot Chat partners are now in Public Beta.
 - [Introducing GitHub Models](https://github.blog/news-insights/product-news/introducing-github-models/) = Enabling our GitHub users to become AI engineers and build with industry-leading AI models.
 - [GitHub Actions: arm64 Linux and Windows runners](https://github.blog/changelog/2024-09-03-github-actions-arm64-linux-and-windows-runners-are-now-generally-available) = ARM based Linux and Windows runners are in General Available.
