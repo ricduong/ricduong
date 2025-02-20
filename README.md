@@ -2,6 +2,7 @@ Hello 👋, I am [@ricduong](https://www.linkedin.com/in/rickduong/), the Execut
 I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I enjoy 🚴‍♂️ cycling and admire the 🎇 night sky as much as I can. 
 
 ## 📰 Partner Integration News
+- [GitHub Copilot Extensions GA](https://github.blog/changelog/2025-02-19-announcing-the-general-availability-of-github-copilot-extensions/) = the general availability release of Copilot Chat Extensions.
 - [Linux Arm64 in public repos](https://github.blog/changelog/2025-01-16-linux-arm64-hosted-runners-now-available-for-free-in-public-repositories-public-preview/) = Linux arm64 hosted runners now available for free in public repositories in Public Preview.
 - [Introducing GitHub Copilot Skillsets](https://github.blog/changelog/2024-11-19-build-copilot-extensions-faster-with-skillsets/) = Build Extensions faster with a new lightweight approach.
 - [2024 GitHub Partner of the Year](https://github.blog/news-insights/company-news/celebrating-the-github-awards-2024-recipients/) = Celebrating the Partners of the Year recipients.
