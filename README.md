@@ -2,6 +2,7 @@ Hello 👋, I am [@ricduong](https://www.linkedin.com/in/rickduong/), the Execut
 I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I enjoy 🚴‍♂️ cycling and admire the 🎇 night sky as much as I can. 
 
 ## 📰 Partner Integration News
+- [GitHub launches MCP Server](https://github.com/github/github-mcp-server) = Official local MCP server to connect LLMs and AI assistants to data and tools.
 - [GitHub Copilot Extensions GA](https://github.blog/changelog/2025-02-19-announcing-the-general-availability-of-github-copilot-extensions/) = the general availability release of Copilot Chat Extensions.
 - [Linux Arm64 in public repos](https://github.blog/changelog/2025-01-16-linux-arm64-hosted-runners-now-available-for-free-in-public-repositories-public-preview/) = Linux arm64 hosted runners now available for free in public repositories in Public Preview.
 - [Introducing GitHub Copilot Skillsets](https://github.blog/changelog/2024-11-19-build-copilot-extensions-faster-with-skillsets/) = Build Extensions faster with a new lightweight approach.
@@ -27,8 +28,12 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I enjoy 
 - [JetBrains + GitHub Codespaces](https://github.blog/changelog/2022-11-09-github-codespaces-with-jetbrains-ides-public-beta/) = Supporting JetBrains IDE via the JetBrains Gateway
 - [Perforce + GitHub Actions](https://www.perforce.com/blog/vcs/perforce-github-helix-core-actions) = Supporting game development via Perforce Helix Core
 
-### 💬 Copilot Chat Partners (24)
-[Agentic Search Ai](https://github.com/marketplace/agentic-search-ai)
+### 💬 Copilot Chat Partners (28)
+[Neon Postgres](https://github.com/marketplace/neon-database)
+| [ARM](https://github.com/marketplace/arm-for-github-copilot)
+| [Flight Crew](https://github.com/marketplace/flightcrew-for-copilot)
+| [Faros AI](https://github.com/marketplace/faros-ai-assistant)
+| [Agentic Search Ai](https://github.com/marketplace/agentic-search-ai)
 | [Carta API](https://github.com/marketplace/carta-api)
 | [Stack Overflow](https://github.com/marketplace/stack-overflow-extension-for-github-copilot)
 | [PerplexityAI](https://github.com/marketplace/perplexityai)
