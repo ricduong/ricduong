@@ -4,6 +4,7 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I enjoy 
 ## 📰 Partner Integration News
 - [GitHub launches MCP Server](https://github.com/github/github-mcp-server) = Official local MCP server to connect LLMs and AI assistants to data and tools.
 - [GitHub Copilot Extensions GA](https://github.blog/changelog/2025-02-19-announcing-the-general-availability-of-github-copilot-extensions/) = the general availability release of Copilot Chat Extensions.
+- [GitHub integration with Endor Labs](https://github.blog/security/from-finding-to-fixing-github-advanced-security-integrates-endor-labs-sca/) = enabling application security engineers and developers from finding to fixing by drastically reduce time spent on vulnerabilities.
 - [Linux Arm64 in public repos](https://github.blog/changelog/2025-01-16-linux-arm64-hosted-runners-now-available-for-free-in-public-repositories-public-preview/) = Linux arm64 hosted runners now available for free in public repositories in Public Preview.
 - [Introducing GitHub Copilot Skillsets](https://github.blog/changelog/2024-11-19-build-copilot-extensions-faster-with-skillsets/) = Build Extensions faster with a new lightweight approach.
 - [2024 GitHub Partner of the Year](https://github.blog/news-insights/company-news/celebrating-the-github-awards-2024-recipients/) = Celebrating the Partners of the Year recipients.
