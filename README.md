@@ -29,8 +29,10 @@ I grew up in 🐂 Texas and live in the 🏔️ Pacific Northwest where I enjoy 
 - [JetBrains + GitHub Codespaces](https://github.blog/changelog/2022-11-09-github-codespaces-with-jetbrains-ides-public-beta/) = Supporting JetBrains IDE via the JetBrains Gateway
 - [Perforce + GitHub Actions](https://www.perforce.com/blog/vcs/perforce-github-helix-core-actions) = Supporting game development via Perforce Helix Core
 
-### 💬 Copilot Chat Partners (28)
-[Neon Postgres](https://github.com/marketplace/neon-database)
+### 💬 Copilot Chat Partners (30)
+[Prisma](https://github.com/marketplace/prisma-for-github-copilot)
+| [Deephaven](https://github.com/marketplace/deephaven)
+| [Neon Postgres](https://github.com/marketplace/neon-database)
 | [ARM](https://github.com/marketplace/arm-for-github-copilot)
 | [Flight Crew](https://github.com/marketplace/flightcrew-for-copilot)
 | [Faros AI](https://github.com/marketplace/faros-ai-assistant)
